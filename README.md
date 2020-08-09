@@ -1,2 +1,2 @@
-# USD-course-forecast
+# USD course forecast
 Time series example
